@@ -1,5 +1,3 @@
-package com.example.demo1;
-
 import javafx.application.Application;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.geometry.Insets;
